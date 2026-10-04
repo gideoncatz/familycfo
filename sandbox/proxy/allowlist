@@ -1,0 +1,6 @@
+^registry\.npmjs\.org$
+^github\.com$
+^(objects|release-assets)\.githubusercontent\.com$
+^nodejs\.org$
+^query[12]\.finance\.yahoo\.com$
+^(www\.)?boi\.org\.il$
